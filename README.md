@@ -89,31 +89,26 @@ Botul salvează conținutul în format PDF și arhivează cererea.
 📌 Cum poți contribui?
 💡 Vrei să îmbunătățești botul? Fork-uiește repo-ul și trimite un PR!
 
-sh
-Copiază
-Editează
+```sh
 git clone https://github.com/USERNAME/PlaySupportBot.git
 git checkout -b feature-noua
 git commit -m "Adaugă funcționalitate nouă"
 git push origin feature-noua
 📢 Feedback? Deschide un issue sau alătură-te comunității noastre!
+```
 
-🎖️ Viitoare Îmbunătățiri
+#🎖️ Viitoare Îmbunătățiri
 ✅ Logare avansată pentru acțiunile staff-ului
 ✅ Implementare unui sistem de puncte pentru staff
 ✅ Suport pentru mai multe limbi
 ✅ Dashboard web pentru vizualizarea statisticilor
 
-🏆 Mulțumiri
-💙 Acest bot a fost dezvoltat de Puk3p cu drag pentru comunitatea Play Squad!
+#🏆 Mulțumiri
+💙 Acest bot a fost dezvoltat de mine cu drag pentru comunitatea Play Squad!
 
 🔗 Website | 💬 Discord
 
 © 2024 PlaySupportBot | All Rights Reserved
-
-markdown
-Copiază
-Editează
 
 ---
 
@@ -130,4 +125,3 @@ Editează
 
 ---
 
-### 🔥 **Acum poți copia acest README.md și să-l folosești fără probleme în repo-ul tău GitHub!** 🚀

@@ -1,9 +1,9 @@
 # 🎟️ PlaySupportBot | Sistem Avansat de Tickete pentru Discord
 🔥 Un bot inovator pentru gestionarea eficientă a tichetelor și automatizarea suportului pe Discord.
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/USERNAME/PlaySupportBot?style=for-the-badge)
-![GitHub Repo Forks](https://img.shields.io/github/forks/USERNAME/PlaySupportBot?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/USERNAME/PlaySupportBot?style=for-the-badge)
+![GitHub Repo Stars](https://img.shields.io/github/stars/Puk3p/PlaySupportBot?style=for-the-badge)
+![GitHub Repo Forks](https://img.shields.io/github/forks/Puk3p/PlaySupportBot?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/Puk3p/PlaySupportBot?style=for-the-badge)
 
 ---
 

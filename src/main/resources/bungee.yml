@@ -1,0 +1,10 @@
+name: BungeeTicket
+main: Puk3p.util.Main
+version: 1.0
+author: Puk3p
+description: Sistem de tickete pentru BungeeCord
+commands:
+  reloadstaff:
+    description: Reîncarcă lista de staff.
+    usage: /reloadstaff
+    permission: staff.reload

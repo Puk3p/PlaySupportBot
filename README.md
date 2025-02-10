@@ -57,10 +57,10 @@ cd PlaySupportBot
 mvn clean install
 java -jar target/PlaySupportBot.jar
 🔹 3️⃣ Configurare
-Editează config.json și setează token-ul botului și ID-urile Discord:
 ```
 
 ```json
+Editează config.json și setează token-ul botului și ID-urile Discord:
 {
     "botToken": "YOUR_BOT_TOKEN",
     "categoryId": "YOUR_CATEGORY_ID",

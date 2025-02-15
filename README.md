@@ -99,13 +99,13 @@ git push origin feature-noua
 📢 Feedback? Deschide un issue sau alătură-te comunității noastre!
 ```
 
-##🎖️ Viitoare Îmbunătățiri
+## 🎖️ Viitoare Îmbunătățiri
 ✅ Logare avansată pentru acțiunile staff-ului
 ✅ Implementare unui sistem de puncte pentru staff
 ✅ Suport pentru mai multe limbi
 ✅ Dashboard web pentru vizualizarea statisticilor
 
-##🏆 Mulțumiri
+## 🏆 Mulțumiri
 💙 Acest bot a fost dezvoltat de mine cu drag pentru comunitatea Play Squad!
 
 🔗 Website | 💬 Discord

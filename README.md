@@ -76,10 +76,12 @@ Botul generează automat un canal privat, vizibil doar pentru utilizator și sta
 📝 2️⃣ Completarea Formularului
 Utilizatorul trebuie să completeze un formular specific pentru tipul cererii (ex: Unban, Reclamație, Cerere Staff).
 Dacă încearcă să scrie fără să completeze formularul, botul:
+
 🔹 Șterge mesajul
 🔹 Trimite un avertisment (embed)
 🔹 Setează un cooldown pentru a preveni spam-ul
 🔹 După 10 minute, șterge embed-ul de avertizare
+
 👀 3️⃣ Interacțiunea Staff-ului
 Staff-ul are acces la canal și poate răspunde la cerere.
 Există un sistem de vot (PRO / CONTRA) pentru aprobarea cererilor.
